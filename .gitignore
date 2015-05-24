@@ -9,6 +9,7 @@ node_modules/
 validation-status.json
 validation-report.json
 source/bower_components/*
+bower_components/
 
 # Personal Preference Files #
 #############################

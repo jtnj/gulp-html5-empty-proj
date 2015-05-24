@@ -7,7 +7,7 @@
     |   |---*.html          //  html fragments to include
     |
     |---js
-    |   |---globals.js
+    |   |---globals.coffee
     |   |---plugins.js
     |
     |---modules
@@ -16,7 +16,7 @@
     |   |   |   |---global.scss
     |   |   |
     |   |   |---js
-    |   |   |   |---global.js
+    |   |   |   |---global.coffee
     |   |   |   |---plugin.js
     |   |   |
     |   |   |---*.html      // these html files should be treated as fragments only

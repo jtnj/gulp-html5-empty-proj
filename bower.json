@@ -1,0 +1,19 @@
+{
+  "name": "gulp-html5-empty-proj",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jtnj/gulp-html5-empty-proj",
+  "authors": [
+    "Jack"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "gridism": "~0.2.1"
+  }
+}
